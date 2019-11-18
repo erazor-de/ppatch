@@ -1,0 +1,9 @@
+pub use crate::PatternReplaceExt;
+pub use crate::PatternReplaceResultExt;
+pub use crate::PatternSearchExt;
+pub use crate::PatternSearchRefExt;
+pub use crate::PatternSearchResultExt;
+pub use crate::PatternSkipExt;
+pub use crate::PatternSkipResultExt;
+pub use crate::PatternTakeExt;
+pub use crate::PatternTakeResultExt;

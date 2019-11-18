@@ -1,2 +1,2 @@
 # ppatch
-A library to patch binary data via pattern search
+A library to search/replace binary data via patterns
